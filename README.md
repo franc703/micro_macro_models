@@ -28,7 +28,7 @@ The equilibrium is attained when the firm's choice of labor and capital and the 
 
 The model outputs the optimal levels of labor, capital, consumption, and imports before and after the wage increase. It also calculates the resulting output, price, and utility in both situations, as well as the welfare loss due to the wage increase.
 
-See the document [Micro Model](https://github.com/franc703/micro_macro_models/blob/main/Micro_Macro_BCP.docx)
+Check the document here [Micro Model](https://github.com/franc703/micro_macro_models/blob/main/Micro_Macro_BCP.docx) 
 
 
 ### Graphs
